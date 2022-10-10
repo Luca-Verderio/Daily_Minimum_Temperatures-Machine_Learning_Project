@@ -5,8 +5,12 @@ This assignment is part of the "DeepLearning.AI TensorFlow Developer" course.
 
 ## Deep Neural Network Architecture
 The model is comprised of a sequential group of layers, as follows:
-- Embedding
-- Bidirectional LSTM
+- Conv1D
+- LSTM
+- LSTM
+- Dense
+- Dense
+- Dense
 - Dense
 
 ## Data
