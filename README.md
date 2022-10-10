@@ -15,7 +15,7 @@ The model is comprised of a sequential group of layers, as follows:
 
 ## Data
 The original data set is the following:  
--	[Daily Minimum Temperatures in Melbourne](https://github.com/jbrownlee/Datasets/blob/master/daily-min-temperatures.csv)
+-	[Daily Minimum Temperatures in Melbourne data set](https://github.com/jbrownlee/Datasets/blob/master/daily-min-temperatures.csv)
 
 ## Tools
 Programming language: **Python**  
